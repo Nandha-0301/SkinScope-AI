@@ -1,0 +1,11 @@
+.vscode/
+__pycache__/
+*.pyc
+.env
+venv/
+node_modules/
+
+# Ignore model files (not folder)
+model/*.h5
+model/*.pt
+model/*.pkl

@@ -17,10 +17,7 @@ model/*.pth
 
 # Exclude dataset and helper scripts
 SkinDisease/
-build_git_history.py
-push_sequential.py
-push.log
-temp_add.txt
+
 
 
 
